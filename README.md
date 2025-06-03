@@ -39,8 +39,11 @@ This app is deployed on **Vercel**. To deploy your own version:
 1. Push your code to GitHub
 2. Connect your GitHub repo to Vercel
 3. Vercel will auto-deploy your project
+```
 
 🙋‍♂️ Author
 Kartikay Bhardwaj – Web Developer & Interested To Work In Open Source Project
 📧 bhardwajkartikay489@gmail.com
 🔗 https://www.linkedin.com/in/kartikay-bhardwaj-253347275/
+
+
