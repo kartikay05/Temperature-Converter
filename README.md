@@ -4,7 +4,7 @@ This is a simple and responsive Temperature Converter web application that allow
 
 ## 🚀 Live Demo
 
-Check out the live version of the app here: https://temperature-converter-rosy-tau.vercel.app/
+Check out the live version of the app here: https://temperature-converter-rosy-tau.vercel.app/ || https://kartikay05.github.io/Temperature-Converter/
 
 ## 🔧 Features
 
